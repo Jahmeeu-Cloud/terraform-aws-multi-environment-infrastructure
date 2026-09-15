@@ -28,12 +28,6 @@ Each environment consumes the same core modules while using environment-specific
 
 # 🏗️ Architecture
 
-----
-
-
-
-![Image description](https://dev-to-uploads.s3.us-east-2.amazonaws.com/uploads/articles/oxudoingcexr9048z7o2.jpg)
-
 
 ------
 
