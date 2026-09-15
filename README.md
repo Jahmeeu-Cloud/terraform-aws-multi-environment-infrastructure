@@ -35,6 +35,9 @@ Each environment consumes the same core modules while using environment-specific
 ![Image description](https://dev-to-uploads.s3.us-east-2.amazonaws.com/uploads/articles/oxudoingcexr9048z7o2.jpg)
 
 
+------
+
+<img width="386" height="476" alt="Screenshot 2026-09-15 131829" src="https://github.com/user-attachments/assets/7b650400-740d-4260-bf41-15c4f46bb540" />
 
 
 ----
