@@ -2,6 +2,8 @@
 
 This project demonstrates the design and deployment of AWS infrastructure across three independent environments:
 
+
+
 - **Development**
 - **Staging**
 - **Production**
@@ -37,6 +39,11 @@ Each environment consumes the same core modules while using environment-specific
 
 
 # 📁 Repository Structure
+
+![Image description](https://dev-to-uploads.s3.us-east-2.amazonaws.com/uploads/articles/xf72luxs5zizjvbec2mc.png)
+
+
+
 
 ```text
 Terraform-Project/
@@ -188,6 +195,10 @@ This project uses several AWS services:
 | DynamoDB         | Terraform state locking              |
 
 ---
+
+![Image description](https://dev-to-uploads.s3.us-east-2.amazonaws.com/uploads/articles/21219r7cdu051ed3d3yp.png)
+
+
 
 # 🔐 Terraform Remote State
 
