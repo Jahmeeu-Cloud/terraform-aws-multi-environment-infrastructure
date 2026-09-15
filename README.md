@@ -28,21 +28,28 @@ Each environment consumes the same core modules while using environment-specific
 
 # 🏗️ Architecture
 
+----
+
+
+
+![Image description](https://dev-to-uploads.s3.us-east-2.amazonaws.com/uploads/articles/oxudoingcexr9048z7o2.jpg)
+
+
+
+
+----
 
 ![Image description](https://dev-to-uploads.s3.us-east-2.amazonaws.com/uploads/articles/m1ie0wpk25k25c9xuf78.jpg)
 
+----
 
+![Image description](https://dev-to-uploads.s3.us-east-2.amazonaws.com/uploads/articles/hbjiblbxvj5l9aao4qcn.png)
 
 
 ---
 
 
-
 # 📁 Repository Structure
-
-![Image description](https://dev-to-uploads.s3.us-east-2.amazonaws.com/uploads/articles/xf72luxs5zizjvbec2mc.png)
-
-
 
 
 ```text
